@@ -1,4 +1,4 @@
-<h1 align="left">Hola👋! Soy Álvaro Bernal (aka. trr0r)</h1>
+<h1 align="left">Hola👋! Soy Álvaro (aka. trr0r)</h1>
 
 ###
 
